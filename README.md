@@ -1,1 +1,1 @@
-# guardarimagens
+# Repositório especialmente para guardar imagens
